@@ -1,21 +1,20 @@
-<!--# exp-Familiarisation-with-Resistor-IITKGP
-Basis Electronics Virtual Laboratory Experiment 1 Familiarisation with Resistor IIT KGP-->
-
-## Introduction
-
-<div align="center">
-<img src="experiment/images/iitkgp.png" width="10%">
-</div>
-
-<b>Discipline | <b> Computer Science and  Engineering 
-:--|:--|
-<b> Lab | <b> **Basic Electronics**
-<b> Experiment|     <b> **Familiarisation with Resistor and Experiment 1**
+## References
+#### Books
+- 
+-
+-
 
 
-### About the Experiment 
+#### Papers
+- 
+- 
+- 
+-  
 
-<!--Fill a brief description of this experiment here-->
+#### Web Lectures
+- NPTEL Note
+
+# People
 
 <b>Name of Developer | <b> **Prof. Chittaranjan Mandal**
 :--|:--|
@@ -25,7 +24,9 @@ Basis Electronics Virtual Laboratory Experiment 1 Familiarisation with Resistor 
 <b>Webpage| <b> [http://www.iitkgp.ac.in/department/CS/faculty/cs-chitta]
 
 
-### Contributors List
+
+## Contributors list
+
 
 SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
 :--|:--|:--|:--|:--|:--|
