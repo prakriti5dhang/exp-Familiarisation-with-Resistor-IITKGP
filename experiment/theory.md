@@ -3,19 +3,19 @@
 ## Types of Resistors
 
 <div align="center">
-<img src="experiment/images/fig1.png" width="10%">
+<img src="images/fig1.png" width="10%">
 </div>
 
 ## Reading Value of Fixed Resistors
 <div align="center">
-<img src="experiment/images/fig2_1.png" width="10%">
+<img src="images/fig2_1.png" width="10%">
 </div>
 
 - Resistors are color coded as they are too small for the value to be written on them.
 - There are 4 or 5 bands of color . Value of a Resistor is decoded from these band of colors.
 
 <div align="center">
-<img src="experiment/images/fig2.png" width="10%">
+<img src="images/fig2.png" width="10%">
 </div>
 
 ### Reading Value:Step 1
@@ -23,7 +23,7 @@
 - If your resistor has four color bands ,turn the resistor so that the gold or silver band is on right hand side or the end with more bands should point left.
 
 <div align="center">
-<img src="experiment/images/fig3.png" width="10%">
+<img src="images/fig3.png" width="10%">
 </div>
 
 ### Reading Value:Step 2
@@ -31,7 +31,7 @@
 The first band is now on the left hand side. This represents the first digit .Based on the color make a note of the digit.In this case- 4 band its ‘5’ and for 5 band its ‘2’.
 
 <div align="center">
-<img src="experiment/images/fig4.png" width="10%">
+<img src="images/fig4.png" width="10%">
 </div>
 
 ### Reading Value :Step 3
@@ -39,7 +39,7 @@ The first band is now on the left hand side. This represents the first digit .Ba
 The second band represents the second digit. The colors represent the same numbers as did the first digit .In this case -4 band its’6’ and for 5 band its’3’.
 
 <div align="center">
-<img src="experiment/images/fig5.png" width="10%">
+<img src="images/fig5.png" width="10%">
 </div>
 
 ### Reading Value : Step 4
@@ -47,7 +47,7 @@ The second band represents the second digit. The colors represent the same numbe
 The third band divulges how many zeros to add/divide to the first two numbers –for a 4 band Resistor . In this case – 4 band its ‘4’ zeroes to be added . So value is 560K.
 
 <div align="center">
-<img src="experiment/images/fig6.png" width="10%">
+<img src="images/fig6.png" width="10%">
 </div>
 
 ### Reading Value : Step 5
@@ -55,7 +55,7 @@ The third band divulges how many zeros to add/divide to the first two numbers �
 The third band denotes the 3rd digit – for a 5 band Resistor. In this case -5 band its ‘7’ . So the value of the 5 band resistor is 237 Ohms as its multipier digit is ‘0.
 
 <div align="center">
-<img src="experiment/images/fig7.png" width="10%">
+<img src="images/fig7.png" width="10%">
 </div>
 
 ### Tolerance
@@ -63,7 +63,7 @@ The third band denotes the 3rd digit – for a 5 band Resistor. In this case -5 
 The last band denotes the tolerance . So the value of the 4 band resistor it is +/- 10% while for the 5 band resistor it is +/- 1%.
 
 <div align="center">
-<img src="experiment/images/fig8.png" width="10%">
+<img src="images/fig8.png" width="10%">
 </div>
 
 - Tolerance of a Resistor is also an important property to consider .
@@ -74,11 +74,11 @@ The last band denotes the tolerance . So the value of the 4 band resistor it is 
 ## Mnemonic to Remember
 
 <div align="center">
-<img src="experiment/images/fig9.png" width="10%">
+<img src="images/fig9.png" width="10%">
 </div>
 
 <div align="center">
-<img src="experiment/images/fig9_1.png" width="10%">
+<img src="images/fig9_1.png" width="10%">
 </div>
 
 ### Carbon Film Resistors
@@ -89,7 +89,7 @@ The last band denotes the tolerance . So the value of the 4 band resistor it is 
 - Con:Tend to be electrically noisy
 
 <div align="center">
-<img src="experiment/images/fig10.png" width="10%">
+<img src="images/fig10.png" width="10%">
 </div>
 
 ### Metal Film Resistor
@@ -98,7 +98,7 @@ The last band denotes the tolerance . So the value of the 4 band resistor it is 
 - They have about +/- 0.05% tolerance
 
 <div align="center">
-<img src="experiment/images/fig11.png" width="10%">
+<img src="images/fig11.png" width="10%">
 </div>
 
 ### Wire Wound Resistors
