@@ -10,6 +10,7 @@
 ## Reading Value of Fixed Resistors
 <div align="center">
 <img src="images/fig2_1.png" width="10%">
+<p>Figure: 2.1 </p>
 </div>
 
 - Resistors are color coded as they are too small for the value to be written on them.
@@ -17,6 +18,7 @@
 
 <div align="center">
 <img src="images/fig2.png" width="10%">
+<p>Figure: 2.2 </p>
 </div>
 
 ### Reading Value:Step 1
@@ -25,6 +27,7 @@
 
 <div align="center">
 <img src="images/fig3.png" width="10%">
+<p>Figure: 3 </p>
 </div>
 
 ### Reading Value:Step 2
@@ -33,6 +36,7 @@ The first band is now on the left hand side. This represents the first digit .Ba
 
 <div align="center">
 <img src="images/fig4.png" width="10%">
+<p>Figure: 4 </p>
 </div>
 
 ### Reading Value :Step 3
@@ -41,6 +45,7 @@ The second band represents the second digit. The colors represent the same numbe
 
 <div align="center">
 <img src="images/fig5.png" width="10%">
+<p>Figure: 5 </p>
 </div>
 
 ### Reading Value : Step 4
@@ -49,6 +54,7 @@ The third band divulges how many zeros to add/divide to the first two numbers â€
 
 <div align="center">
 <img src="images/fig6.png" width="10%">
+<p>Figure: 6 </p>
 </div>
 
 ### Reading Value : Step 5
@@ -57,6 +63,7 @@ The third band denotes the 3rd digit â€“ for a 5 band Resistor. In this case -5 
 
 <div align="center">
 <img src="images/fig7.png" width="10%">
+<p>Figure: 7 </p>
 </div>
 
 ### Tolerance
@@ -65,6 +72,7 @@ The last band denotes the tolerance . So the value of the 4 band resistor it is 
 
 <div align="center">
 <img src="images/fig8.png" width="10%">
+<p>Figure: 8 </p>
 </div>
 
 - Tolerance of a Resistor is also an important property to consider .
@@ -76,10 +84,12 @@ The last band denotes the tolerance . So the value of the 4 band resistor it is 
 
 <div align="center">
 <img src="images/fig9.png" width="10%">
+<p>Figure: 9.1 </p>
 </div>
 
 <div align="center">
 <img src="images/fig9_1.png" width="10%">
+<p>Figure: 9.2 </p>
 </div>
 
 ### Carbon Film Resistors
@@ -91,6 +101,7 @@ The last band denotes the tolerance . So the value of the 4 band resistor it is 
 
 <div align="center">
 <img src="images/fig10.png" width="10%">
+<p>Figure: 10 </p>
 </div>
 
 ### Metal Film Resistor
@@ -100,6 +111,7 @@ The last band denotes the tolerance . So the value of the 4 band resistor it is 
 
 <div align="center">
 <img src="images/fig11.png" width="10%">
+<p>Figure: 11 </p>
 </div>
 
 ### Wire Wound Resistors
