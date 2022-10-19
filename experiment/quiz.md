@@ -5,4 +5,4 @@
 
 Color | Digit | Multiplier | Tolerence%  | Color Band | 
 :--|:--|:--|:--|:--|
-Black | 0 |  $$ 10^0 \ohm $$  |  | <input type="text" style="background-color:black" > | 
+Black | 0 |  $$10^0 \quad \ohm$$  | <input type="text" style="background-color:black" > | 
