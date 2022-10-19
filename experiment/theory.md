@@ -4,6 +4,7 @@
 
 <div align="center">
 <img src="images/fig1.png" width="10%">
+<p>Figure: 1 </p>
 </div>
 
 ## Reading Value of Fixed Resistors
