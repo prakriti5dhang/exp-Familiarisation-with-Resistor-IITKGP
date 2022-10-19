@@ -1,7 +1,7 @@
 ## Color Code for Resistor
-<div align="left">                        
+<!--div align="left">                        
     <img src="images/color-code.png" width="100%">                             
-</div>
+</div-->
 
 Color | Digit | Multiplier | Tolerence%  | Color Band | 
 :--|:--|:--|:--|:--|
