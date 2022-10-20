@@ -12,7 +12,7 @@
 -  
 
 #### Web Lectures
-- NPTEL Note
+- [NPTEL Note](https://nptel.ac.in/)
 
 # People
 
