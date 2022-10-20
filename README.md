@@ -22,7 +22,7 @@ Basis Electronics Virtual Laboratory Experiment 1 Familiarisation with Resistor 
 <b> Institute | <b>  **Indian Institute of Technology Kharagpur**
 <b> Email id|     <b>  **chitta@iitkgp.ac.in**
 <b> Department |  **Department of Computer Science and Engineering**
-<b>Webpage| <b> [http://www.iitkgp.ac.in/department/CS/faculty/cs-chitta]
+<b>Webpage| <b> [http://www.iitkgp.ac.in/department/CS/faculty/cs-chitta](http://www.iitkgp.ac.in/department/CS/faculty/cs-chitta)
 
 
 ### Contributors List
