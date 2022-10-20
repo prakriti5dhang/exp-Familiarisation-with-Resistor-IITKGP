@@ -122,6 +122,6 @@ The last band denotes the tolerance . So the value of the 4 band resistor it is 
 
 ### Slides of the above theory
 
-- Slides:  [http://vlabs.iitkgp.ac.in/be/exp1/content/slides.html]
+- Slides:   [Measurements of  Resistance] (http://vlabs.iitkgp.ac.in/be/exp1/content/slides.html)
 
-- Pdf:  [http://vlabs.iitkgp.ac.in/be/exp1/content/measureresis.pdf]
+- Pdf:  [Measurements of  Resistance] (http://vlabs.iitkgp.ac.in/be/exp1/content/measureresis.pdf)

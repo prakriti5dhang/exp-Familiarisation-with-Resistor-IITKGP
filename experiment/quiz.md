@@ -18,3 +18,5 @@ White | 0 |  $$10^9 \quad \ohm \quad (1G\ohm)$$ | | <input type="text" style="ba
 Gold | 0 |  $$10^-1 \quad \ohm$$ | 5 | <input type="text" style="background-color:gold" > | 
 Silver | 0 |  $$10^-2 \quad \ohm$$ | 10 | <input type="text" style="background-color:silver" > | 
 None | 0 |   | 20 | <input type="text" style="background-color:none" > | 
+
+
