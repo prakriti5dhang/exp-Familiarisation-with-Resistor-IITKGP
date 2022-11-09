@@ -12,5 +12,5 @@
 **SNo** | **Name** |  **Email** | **Institute** | **Id**
 :--|:--|:--|:--|:--|
 1 | Sukriti Dhang | sukritid05@gmail.com | IIT Kharagpur | [https://in.linkedin.com/in/sukriti-dhang-0a244612b](https://in.linkedin.com/in/sukriti-dhang-0a244612b) |
-2 | Pabitra Kumar Jana | pkjana@mech.iitkgp.ernet.in |  IIT Kharagpur | |
+2 | Pabitra Kumar Jana | pkjana@mech.iitkgp.ernet.in |  IIT Kharagpur |[https://in.linkedin.com/in/pkjana](https://in.linkedin.com/in/pkjana) |
 3 | Prakriti Dhang | prakritidhang05@gmail.com |  IIT Kharagpur | [https://in.linkedin.com/in/prakriti-dhang-01600913b](https://in.linkedin.com/in/prakriti-dhang-01600913b)|
