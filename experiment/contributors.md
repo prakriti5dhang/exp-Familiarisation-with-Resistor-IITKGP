@@ -3,7 +3,7 @@
 **SNo** | **Name** |  **Email** | **Institute**| **Id**
 :--|:--|:--|:--|:--|
 
-1|Prof. Chittaranjan Mandal|chitta@iitkgp.ac.in|Indian Institute of Technology Kharagpur|[http://www.iitkgp.ac.in/department/CS/faculty/cs-chitta](http://www.iitkgp.ac.in/department/CS/faculty/cs-chitta)|
+1 | Prof. Chittaranjan Mandal | chitta@iitkgp.ac.in | IIT Kharagpur | [http://www.iitkgp.ac.in/department/CS/faculty/cs-chitta](http://www.iitkgp.ac.in/department/CS/faculty/cs-chitta) |
 
 
 
