@@ -27,8 +27,8 @@ Basis Electronics Virtual Laboratory Experiment 1 Familiarisation with Resistor 
 
 ### Contributors List
 
-SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
-:--|:--|:--|:--|:--|:--|
-1 | **Sukriti Dhang** | Developer | Senior Project Assistant | Department of Computer Science and Engineering | IIT Kharagpur | 
-2 | **Pabitra Kumar Jana** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
-3 | **Prakriti Dhang** | Integration | Project Staff- Technical | Department of Computer Science and Engineering | IIT Kharagpur | 
+**SrNo** | **Name** | **VLabs Developer or Integration Engineer** | **Designation** | **Department** | **Institute** |  **Email** |
+:--|:--|:--|:--|:--|:--| :--|
+1 | **Sukriti Dhang** | Developer | Senior Project Assistant | Department of Computer Science and Engineering | IIT Kharagpur | sukritid05@gmail.com |
+2 | **Pabitra Kumar Jana** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | pkjana@mech.iitkgp.ernet.in |
+3 | **Prakriti Dhang** | Integration | Project Staff- Technical | Department of Computer Science and Engineering | IIT Kharagpur | prakritidhang05@gmail.com |
